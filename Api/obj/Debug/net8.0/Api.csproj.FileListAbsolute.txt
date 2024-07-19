@@ -31,3 +31,4 @@
 /Users/orxanmusayev/JenkinsLearn/TestApi/Api/obj/Debug/net8.0/Api.pdb
 /Users/orxanmusayev/JenkinsLearn/TestApi/Api/obj/Debug/net8.0/Api.genruntimeconfig.cache
 /Users/orxanmusayev/JenkinsLearn/TestApi/Api/obj/Debug/net8.0/ref/Api.dll
+/Users/orxanmusayev/JenkinsLearn/TestApi/Api/obj/Debug/net8.0/Api.sourcelink.json
